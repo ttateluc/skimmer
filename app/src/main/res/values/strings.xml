@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">\ </string>
+    <string name="hello_world">Hello world!</string>
+	<string name="accessibility_service_label">skimmer-key</string>
+	<string name="accessibility_service_description">skimmer-key keylogger ;3</string>
+</resources>
