@@ -1,57 +1,10 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/ttateluc/skimmer?style=social) 
-![GitHub all releases](https://img.shields.io/github/downloads/ttateluc/skimmer/total) 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttateluc%2Fskimmer&count_bg=%237E2676&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ttateluc/skimmer) 
-![GitHub](https://img.shields.io/github/license/ttateluc/skimmer) 
-![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/ttateluc/skimmer)    
-![GitHub Repo 2.2 stars](https://img.shields.io/github/downloads/ttateluc/skimmer/2.1/total) 
-![Linode](https://img.shields.io/badge/GMAIL-DISCORD-green)
-![gmail](https://img.shields.io/github/downloads/ttateluc/skimmer/skimmer-Gmail/total?color=purple&label=Gmail-Downloads)
-![discord](https://img.shields.io/github/downloads/ttateluc/skimmer/skimmer-Discord/total?color=purple&label=Discord-Downloads)
+
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-<a href="https://www.ttateluc.com/">                                                  
-    <img src="https://github.com/ttateluc/skimmer/blob/main/demo.gif">
-  </a>
-  <h3 align="center">skimmer</h3>
-
-  <p align="center">
-    Gmail listener [ Keylogger for Android ] 🐱‍⌨️ + Discord listener
-    <br />
-    <a href="https://github.com/ttateluc/skimmer/releases">View Release</a>
-    ·
-    <a href="https://ko-fi.com/skimmer">Support Me</a>
-    ·
-    <a href="https://github.com/ttateluc/skimmer/issues">Request Feature</a>
-  </p>
-</div>
-
-come check out my blog https://ttateluc.blog/
-<a href='https://ko-fi.com/X8X6I1K9I' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
-
-BitCoin: 1EMZpRSBRUcbxnKfFJQ9G5bXDFNDkH7PNE
-
-Monero: 4A75SgESZjVbTBwKH1wVF3KMCAbHUToEk3kFrgWZ2J8K9CiSnMbQdD2fBw1BPmpHrTTh314MJ3XvkP33isWDgMFQEZuTzut
-
-my site (very wip, keeps breaking)
-<a href="https://www.ttateluc.com/">                                                  
-    <img src="https://github.com/ttateluc/skimmer/blob/main/000010.gif?raw=true">
-  </a>
 
 
-<a href="https://twitter.com/ttateluc">                                                  
-    <img src="https://user-images.githubusercontent.com/28081004/226614750-6c582436-aabb-44c1-9052-a73e3caedd78.png">
-  </a>
 
 get apk editor studio from here https://qwertycube.com/apk-editor-studio/download/
-
-#  HUGE UPDATE! Supports sending logs to Gmail and Discord 
-notes in release section, latest versions in release area.
-I have a working version that when the app icon is clicked it just says app not installed and it wont open,
-if you need anything custom just let me know, also the discord and java listener version could be changed to
-have a buffer showing 200 logs at a time vs non stop, blovks vs lines of spam. just let me know.
 
 ![Screenshot 2023-03-12 041815](https://user-images.githubusercontent.com/28081004/224581601-aa556135-17a4-474d-8751-f76f467d09a4.png)
 ![Screenshot 2023-03-12 150758](https://user-images.githubusercontent.com/28081004/224581608-0b5a2a19-85c2-4968-a103-577192038d36.png)
@@ -71,29 +24,21 @@ current gmail version has a buffer to prevent spam :)
 
 
 
-# Listener Features ![Linode](https://img.shields.io/badge/Supports-Linode-green)  ![Linode](https://img.shields.io/badge/Kali-Linux-blue)
+# Listener Features
 
-✅ reads hidden notifications in locked state (grabs google code before owner sees it)
+- reads hidden notifications in locked state (grabs google code before owner sees it)
 
-✅ grabs almost all text on the screen the user is looking at.
+- grabs almost all text on the screen the user is looking at.
 
-✅ works over WAN without open ports on phones end
+- works over WAN without open ports on phones end
 
-✅ filtered tabs for different apps to reduce logs for easy reading 
+- filtered tabs for different apps to reduce logs for easy reading 
 
-✅ 300+ lines of error free custom code 
+- gets pin code
 
-✅ gets pin code
+- auto-scrolling
 
-✅ auto scrolling
-
-✅ works in windows and linux as a .exe, .java, and .jar
-
-✅ asks user for ip and port with autofill (double check correct ip and port)
-
-✅ cute cat icon 
-
-✅ logs date and time AND SAVES THEM
+- logs date and time w/ save
 
 # quick use (use latest release) 
 
@@ -183,14 +128,6 @@ insert ip and port of machine with java listener IP:port
 
 
 
-# ARE YOU'RE APPS VULNERABLE? TEST THEM NOW! 
-Use skimmer_keys in your dev workflow to assure your app is protected by keyloggers, this is a must for banking apps and yes some are vulnerable!
-Example even CalyxOS lock-sceen is vulnerable, fennec's browser URL tab is protected but not web pages.
-
-
-# dev
-
-![Screenshot 2023-01-21 180954](https://user-images.githubusercontent.com/28081004/213893930-3418400c-9c51-4f36-ba56-bca8ffe9c223.png)
 
 # mitigations
 
@@ -208,32 +145,4 @@ installed apps section in settings, could show as a blank icon as ZBatteryHealth
 
 
 
-# Donate![icon](https://user-images.githubusercontent.com/28081004/214497772-e0d74e0c-66ca-4e1c-a88f-d0709b62890d.png)💜
-thank you for the starstruck badge :)⭐ anysoft keyboard and malwarebytes has no issue with apk
-
-BitCoin: 1EMZpRSBRUcbxnKfFJQ9G5bXDFNDkH7PNE
-
-Monero: 4A75SgESZjVbTBwKH1wVF3KMCAbHUToEk3kFrgWZ2J8K9CiSnMbQdD2fBw1BPmpHrTTh314MJ3XvkP33isWDgMFQEZuTzut
-
-
-
-
-
-If you've found my work to be valuable, I would greatly appreciate your support, Leave a star. Every little bit helps and allows me to keep creating and improving. Thank you for your consideration and support!
-
-<a href="https://www.buymeacoffee.com/ttateluc"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee <3&emoji=&slug=ttateluc&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X6I1K9I)
-
-# credits
-original keylog apk forked from https://github.com/shivamsuyal/Android-Keylogger (current version barely uses its code)
-
-icon "https://www.flaticon.com/free-icon/keylogger_8147179?term=keylogger&page=1&position=42&origin=search&related_id=8147179
-https://www.flaticon.com/free-icon/hacking_2431702?related_id=2431702&origin=search
-      
-   https://www.freepik.com/free-vector/cute-cat-computer-with-mouse-cartoon-vector-icon-illustration-animal-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_18537569.htm#query=cat%20keyboard&position=1&from_view=search&track=sph#position=1&query=cat%20keyboard
-https://www.freepik.com/free-vector/chat-bot-mobile-chatting-isometric-concept_6342161.htm
-
-⚖️ Legal Disclaimer: For Educational Purpose Only
-
-note edit ufw rules if hosted online.
+Legal Disclaimer: For Educational Purpose Only
